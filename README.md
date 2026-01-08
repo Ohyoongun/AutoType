@@ -13,6 +13,10 @@ It remembers which language you used for specific Apps and even specific **Windo
 
 ---
 
+<p align="center">
+  <img src="./main/스크린샷 2026-01-08 오전 11.54.28" alt="App Screenshot" width="600">
+</p>
+
 ## ✨ Key Features
 
 ### 🧠 Context-Aware Switching
